@@ -27,4 +27,4 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelnoch&show_icons=true)
 
-[![rafanoch](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![rafanoch](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnoch&hide=html&layout=compact=true&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
